@@ -1,0 +1,14 @@
+{
+  "version": "1.1.0",
+  "automated_tests_passed": 20,
+  "production_functions": [
+    "session",
+    "status",
+    "confirmation"
+  ],
+  "real_provider_activation_test": "pending_user_token_and_valid_iid",
+  "frontend_brand": "NOVA Activacion",
+  "external_portal_links_in_frontend": false,
+  "provider_token_in_frontend": false,
+  "deployment_target": "Netlify; GitHub source repository"
+}
